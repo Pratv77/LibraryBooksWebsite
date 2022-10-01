@@ -269,3 +269,8 @@ p {
   padding-right: 6px;
   color: #bfbfbf;
 }
+
+.latest__books {
+  display: flex;
+  flex-wrap: wrap;
+}
